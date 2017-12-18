@@ -22,7 +22,7 @@ github_username:  meredith-a-green
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-midnight
 theme: jekyll-swiss
 
 plugins:
