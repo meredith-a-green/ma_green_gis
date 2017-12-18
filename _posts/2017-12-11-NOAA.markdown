@@ -1,0 +1,20 @@
+﻿---
+layout: pdf
+title:  "Masters Thesis: A GIS analysis of coastal development and trends in bottlenose dolphin strandings in Charleston, SC: implications for coastal marine spatial planning"
+date:   2010-12-01 21:05:29 -0500
+categories: jekyll update
+---
+ABSTRACT
+Bottlenose dolphins (Tursiops truncatus) inhabit estuarine waters near Charleston, South Carolina (SC) feeding, nursing and socializing. While in these waters, dolphins are exposed to multiple direct and indirect threats such as anthropogenic impacts (egs. harassment with boat traffic and entanglements in fishing gear) and environmental degradation. Bottlenose dolphins are protected under the Marine Mammal Protection Act of 1972.
+Over the years, the percentage of strandings in the estuaries has increased in South Carolina and, specifically, recent stranding data shows an increase in strandings occurring in Charleston, SC near areas of residential development. During the same timeframe, Charleston experienced a shift in human population towards the coastline. These two trends, rise in estuarine dolphin strandings and shift in human population, have raised questions on whether the increase in strandings is a result of more detectable strandings being reported, or a true increase in stranding events. Using GIS, the trends in strandings were compared to residential growth, boat permits, fishing permits, and dock permits in Charleston County from 1994-2009. A simple linear regression analysis was performed to determine if there were any significant relationships between strandings, boat permits, commercial fishing permits, and crabpot permits.
+
+The results of this analysis show the stranding trend moves toward Charleston Harbor and adjacent rivers over time which suggests the increase in strandings is related to the strandings becoming more detectable. The statistical analysis shows that the factors that cause human interaction strandings such as boats, commercial fishing, and crabpot line entanglements are not significantly related to strandings further supporting the hypothesis that the increase in strandings are due to increased observations on the water as human coastal population increases and are not a natural phenomenon. This study has local and potentially regional marine spatial planning implications to protect coastal natural resources, such as the bottlenose dolphin, while balancing coastal development.
+
+
+
+<iframe src="https://drive.google.com/file/d/1FgMm45KIXaybnEQV9ZslO_bekOi-Nx9N/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1zyvSlnF-78PN7jWGooxfPXGp0f4FHhxC/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1o99kjtdzSU44eC6MJLqsfO9XD0tcTk9R/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1fQYkGM59TSr6C3Ypn9EhfKQNufVnNgMR/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/168MKVbrMSBUPcxJKB5oV6ZPlToZANa13/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1ztjxal3pKw7JIsgJWItmFJsjEo8XlPD3/preview" width="100%" height="100%"></iframe>
